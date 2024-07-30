@@ -6,6 +6,6 @@ which is an app for desktop and mobile phones, the website aims to revolutionize
 offering seamless management solutions tailored to enhance efficiency, member experience, and administrative ease.
 
 I uploaded the HTML & CSS codes I worked on for my part in this group project
-along with the images folder used in this section of website.
+along with the images folder used in this section of the website.
 
 I uploaded also a video showing the whole final website with all the sections together.
