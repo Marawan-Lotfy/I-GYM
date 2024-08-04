@@ -8,7 +8,9 @@ offering seamless management solutions tailored to enhance efficiency, member ex
 ![Section 1 Marwan Lotfy](https://github.com/user-attachments/assets/d60cee07-bfc3-4251-81d9-b35b98d51b47)
 
 
-I uploaded the HTML & CSS codes I worked on for my part in this group project
-along with the images folder used in this section of the website.
-
-I uploaded also a video showing the whole final website with all the sections together.
+Uploads
+-
+- HTML & CSS Code
+- Images Folder
+- Presentation
+- Video
